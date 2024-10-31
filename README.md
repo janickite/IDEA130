@@ -1,4 +1,4 @@
-# IDEA130
+# IDEA130 BITSY TWO COLOR GAME DATA
 
 idea410 two color game
 
